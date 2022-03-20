@@ -32,6 +32,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
+      - name: Install Requirements
+        run:  pip install flask pytest flask-wtf coverage
+
+      - name: Coverage Test
+        run: coverage run test.py
+
+      - name: Coverage Report
+        run: coverage xml
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
