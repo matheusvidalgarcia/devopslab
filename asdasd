@@ -1,0 +1,215 @@
+[33mcommit a20dba60b4a542e5d35ecebf9a34ad91bec13629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:32:29 2022 -0300
+
+    Code Coverage
+
+[33mcommit b11708099597b6cab35be88e872ea7645ea9b10a[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:31:25 2022 -0300
+
+    Test 8
+
+[33mcommit 27114abd390b6e7a7f57aa83251ecf4ad34fe7a8[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:26:41 2022 -0300
+
+    Test 7
+
+[33mcommit ca8738ba9f8cd9ba29ee14a5bcf76f7d97241577[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:16:46 2022 -0300
+
+    Test6
+
+[33mcommit c52f35fb33f57c5fb1297831d716cfd495b6d196[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:14:12 2022 -0300
+
+    Test5
+
+[33mcommit 8680a1c6526c170784b12b0224b918b5d941999d[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 01:04:45 2022 -0300
+
+    Test4
+
+[33mcommit 255e759ea1768fdd8ec0f9fd6b54080205e75247[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:58:26 2022 -0300
+
+    Teste 3
+
+[33mcommit 121b154bdceac7e9b3521852ef48fdf0786e4188[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:53:30 2022 -0300
+
+    Adjust pipeline
+
+[33mcommit 74d5431f67c0eeec813b65dad0169949cba3b10a[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:52:51 2022 -0300
+
+    Code Coverage test 2
+
+[33mcommit 096c7242cdc561ef7bfa6ff72d0234f2110db18b[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:43:22 2022 -0300
+
+    Code Coverage Test
+
+[33mcommit 93527aedd306b0a7d4c04e8d86766fdb7ec34f8f[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:27:25 2022 -0300
+
+    Adjust Badge
+
+[33mcommit 5939cf79d59c1c6dae1e46fe24077d10f0525ad2[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:26:43 2022 -0300
+
+    Adjust badge sonnar
+
+[33mcommit b376c1ee25772bc95660e5317c68e82a2a15c9a6[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:24:18 2022 -0300
+
+    Sonar Badge
+
+[33mcommit 7b3d1baa5e12c941b0099a5f2fa81f59b76a9263[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:17:21 2022 -0300
+
+    Desafio Status Badges
+
+[33mcommit d630e3551a44154bdf91d61e2ff1e4a7a4bfc171[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:13:42 2022 -0300
+
+    Bug fix
+
+[33mcommit 620009723ecfb7e3e32fc0321176b7760819d22c[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:08:42 2022 -0300
+
+    Bug Removed
+
+[33mcommit a6646dedd143636ca7599c0fda270c12225a0645[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:06:51 2022 -0300
+
+    Enable Quality Gate Status
+
+[33mcommit cea0edd0665cf873f90d346f8b04726d039d5810[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:04:05 2022 -0300
+
+    Bug Added
+
+[33mcommit 11bf7bd03d5e1cd9d01f4a51bf1c83796dcb49b8[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sun Mar 20 00:01:02 2022 -0300
+
+    Fix CSRF
+
+[33mcommit 65680d8319e8cd7e10024fb8c78ce7d8cdf6ec93[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 23:50:22 2022 -0300
+
+    Ajustes no SAST
+
+[33mcommit f57586cc80e6dc3dd2a073305b42bacb148b22da[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 23:48:46 2022 -0300
+
+    SonarCloud - SAST
+
+[33mcommit ac10c05dd4675e9243dc5174d3ab613e8e2fcee7[m
+Merge: 73874a3 72686d1
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 21:47:50 2022 -0300
+
+    Merge pull request #4 from matheusvidalgarcia/04-Deploy
+    
+    Etapa de Deploy Adicionada
+
+[33mcommit 73874a383ebcfe424b4d790916504a56cb332897[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 21:36:27 2022 -0300
+
+    Corrigindo teste
+
+[33mcommit 0e09872730e9c703747fd6407c02f57162c8f11e[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 21:35:42 2022 -0300
+
+    Forçando erro de teste
+
+[33mcommit 3ba671c0fdc75431adeacf20fbc3c50682c7fc56[m
+Merge: 89b745d 4531234
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 21:34:12 2022 -0300
+
+    Merge pull request #3 from matheusvidalgarcia/03-UnitTest
+    
+    Etapa de Test Adicionada
+
+[33mcommit 89b745dea7185926b6a72505bff02a13057dd5f0[m
+Merge: 3675fbf f4b1062
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 20:00:44 2022 -0300
+
+    Merge pull request #2 from matheusvidalgarcia/02-GitHubActions
+    
+    GitHub Actions Adicionado
+
+[33mcommit 3675fbf25f639b8afb32eaeb0753d031c109ade2[m
+Merge: 2ea78ff cad4faf
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 19:40:03 2022 -0300
+
+    Merge pull request #1 from matheusvidalgarcia/01-Code
+    
+    Criação da app Flask/Python
+
+[33mcommit cad4faffdfbed5b41f6341fd92214207a37a23c7[m[33m ([m[1;31morigin/01-Code[m[33m)[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 19:39:30 2022 -0300
+
+    Criação da App Flask/Python
+
+[33mcommit 2ea78ff5e109186a7335ea67791f843dac5d50fc[m
+Author: matheusvidalgarcia <55197141+matheusvidalgarcia@users.noreply.github.com>
+Date:   Sat Mar 19 19:27:52 2022 -0300
+
+    Ajuste no README
+
+[33mcommit 72686d1dcd54adde575893d564a4e8b5aacb913f[m[33m ([m[1;31morigin/04-Deploy[m[33m)[m
+Author: Gaby Dias <36906363+gabydias@users.noreply.github.com>
+Date:   Thu Nov 25 03:40:04 2021 -0300
+
+    Etapa de Deploy Adicionada
+
+[33mcommit 45312345ae49d85da6b87fcfd1213f371cccf364[m[33m ([m[1;31morigin/03-UnitTest[m[33m)[m
+Author: Gaby Dias <36906363+gabydias@users.noreply.github.com>
+Date:   Thu Nov 25 03:36:49 2021 -0300
+
+    Etapa de Test Adicionada
+
+[33mcommit f4b1062882fae445226885774fa347997d364123[m[33m ([m[1;31morigin/02-GitHubActions[m[33m)[m
+Author: Gaby Dias <36906363+gabydias@users.noreply.github.com>
+Date:   Thu Nov 25 03:34:29 2021 -0300
+
+    GitHub Actions Adicionado
+
+[33mcommit 05710044d7891b6d0705ec982f9c8161094ed70b[m
+Author: Gaby Dias <36906363+gabydias@users.noreply.github.com>
+Date:   Thu Nov 25 03:14:09 2021 -0300
+
+    Criação da App Python/Flask
+
+[33mcommit 0fd0f45330c864b1b60e38dd4579476494360807[m
+Author: Gaby Dias <36906363+gabydias@users.noreply.github.com>
+Date:   Thu Nov 25 03:09:07 2021 -0300
+
+    Initial commit
