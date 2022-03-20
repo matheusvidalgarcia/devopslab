@@ -26,8 +26,8 @@ jobs:
         run: python -m unittest -v test
 
       - name: Test with pytest
-        run: pytest --cov=test.py --cov-report=xml
-             
+        run: pytest --cov=app tests/ --cov-report=xml             
+
   SonarCloud:
     name: SonarCloud
     runs-on: ubuntu-latest
