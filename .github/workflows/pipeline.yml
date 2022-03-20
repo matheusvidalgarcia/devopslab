@@ -21,9 +21,13 @@ jobs:
 
       - name: Install Requirements
         run:  pip install flask pytest flask-wtf
+        pytest --cov=./ --cov-report=xml --doctest-modules
 
       - name: Unit Test
         run: python -m unittest -v test
+
+      - name: Test with pytest
+        run: pytest --cov=./ --cov-report=xml --doctest-modules
 
   SonarCloud:
     name: SonarCloud
